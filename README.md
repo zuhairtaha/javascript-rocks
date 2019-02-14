@@ -16,7 +16,7 @@ If you have any issues getting the word prediction web service to work, don't he
 See the "Word predictions web service description" section below for more info on how to use the web service.
 
 #### 2. Display the first 10 word predictions in HTML.
- 
+
 #### 3. Add a `<textarea>` in your HTML and use the text value for the function you wrote in step #1.
 The text should be based on the position of the caret inside the textarea, for example:
 ```
@@ -32,7 +32,7 @@ The word prediction should be inserted into the `<textarea>` at the location of 
 For example, using the text from step #3 `Hello, my name is J` the letter `J` should be emphasized in the predictions `John`, `James` and `June`.
 
 #### 6. Add your code in a Git project on GitHub and share the link with your Wizkids contact.
- 
+
 ## Word predictions web service description
 
 #### URL
