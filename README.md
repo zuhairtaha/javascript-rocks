@@ -39,7 +39,7 @@ For example, using the text from step #3 `Hello, my name is J` the letter `J` sh
 `https://services.lingapps.dk/misc/getPredictions`
 
 #### Authorization
-Header (provided by Wizkids): `Authorization: Bearer [TOKEN]`
+Header: `Authorization: Bearer [TOKEN]` (token provided by Wizkids)
 
 #### Parameters
   - `locale`: String, the langauge in which the predictions should be computed. Valid values are `da-DK` and `en-GB`.
